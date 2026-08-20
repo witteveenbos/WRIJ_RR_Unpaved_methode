@@ -3,7 +3,7 @@
 #   https://python-poetry.org/docs/pyproject/
 # The version entry must be present, however it is further ignored by the build
 # process; the version is automatically set by using ``poetry-dynamic-versioning``.
-name = "153961_WRIJ_RR_Unpaved_methode"
+name = "WRIJ_RR_Unpaved_methode"
 version = "0.1.0"
 description = "Add a short description here!"
 authors = ["harm-nomden-sweco <harm.nomden@sweco.nl>"]
@@ -43,5 +43,5 @@ priority = "primary"
 # PyScaffold's parameters when the project was created.
 # This will be used when updating. Do not change!
 version = "4.5"
-package = "153961_wrij_rr_unpaved_methode"
+package = "wrij_rr_unpaved_methode"
 extensions = ["wb_simple"]

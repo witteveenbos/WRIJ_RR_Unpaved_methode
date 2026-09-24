@@ -1,0 +1,7 @@
+kD_dagen = 20
+factor_lengte_weerstand = 4
+weerstand_uit_gemiddelde_afstand = true
+berging_op_maaiveld = 25.0
+infiltratie_factor = 4.0
+use_amigo_init_gws = true
+amigo_gws_init_date = "2014-01-01"
